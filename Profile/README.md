@@ -11,7 +11,7 @@
 
 
 ## Mobile App
-https://github.com/codeexp22-seb/SEB-iOS
+[![](https://github-readme-stats.vercel.app/api/pin/?username=codeexp22-seb&repo=SEB-iOS)](https://github.com/codeexp22-seb/SEB-iOS)
 - Learners can explore courses and complete quizzes to earn badges
 - Progress Rings to motivate users to work on improving a variety of skills. 
   - Learners will earn points upon completion of a ring
@@ -21,7 +21,7 @@ https://github.com/codeexp22-seb/SEB-iOS
 
 
 ## Badge Verification Website
-https://github.com/codeexp22-seb/SEBadge
+[![](https://github-readme-stats.vercel.app/api/pin/?username=codeexp22-seb&repo=SEBadge)](https://github.com/codeexp22-seb/SEBadge)
 - Each badge earned after the completion of courses has a unique ID
 - This ID can be used to check the validity of the badge 
 - The SEBadge web service provides a platform for those interested in verifying the authenticity of a badge 
@@ -29,7 +29,7 @@ https://github.com/codeexp22-seb/SEBadge
 
 
 ## Admin Web Panel
-https://github.com/codeexp22-seb/SEBadmin
+[![](https://github-readme-stats.vercel.app/api/pin/?username=codeexp22-seb&repo=SEBadmin)](https://github.com/codeexp22-seb/SEBadmin)
 - Design for leaders of organisational units (e.g sergeants of a platoon etc.) 
 - Provides an overview of learners and course statistics (e.g. points earned, completion rates)
 - **Enhanced diagnostics**: Can be used to monitor progress of learners
